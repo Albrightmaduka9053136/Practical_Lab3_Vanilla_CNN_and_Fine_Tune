@@ -1,0 +1,48 @@
+# Python caches
+__pycache__/
+*.py[cod]
+$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Data and large files
+data/
+*.csv
+*.zip
+
+# Models and checkpoints
+models_lab3/
+*.h5
+*.keras
+*.ckpt
+*.pb
+saved_model/
+
+# Logs
+logs/
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# Misc
+coverage/
+htmlcov/
